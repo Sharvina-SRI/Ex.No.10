@@ -96,35 +96,45 @@ Accuracy: Factual correctness (for reports).
 
 Tone & style: Does it match the requirement (formal, casual, storytelling)?
 
-### 6. Test Case Scenarios (Choose Any 2)
+### 6. Test Case Scenarios 
+#### Test Case 1: Business Report on Market Trends
 
-You may choose any two of the following for your experiment:
+#### Objective:
+To generate a structured business report on current market trends using query decomposition, semantic filtering, and answer engineering.
 
-Business Report on Market Trends
+#### Prompt Technique Used:
+Query decomposition
+Fact-check list
+Answer engineering
 
-Case Study on Business Success
+#### Expected Output:
+A formal report covering market overview, growth drivers, challenges, and future predictions.
 
-Article on Climate Change
+#### Test Case 2: Case Study on Business Success
 
-Creative Writing – Sci-Fi Short Story
+#### Objective:
+To create a case study that analyses how a company achieved success through strategic decisions.
 
-Educational Report on Renewable Energy
+#### Prompt Technique Used:
+Tail generation
+Decision-making prompts
+Semantic filter (professional tone)
 
-Product Launch Announcement
+#### Expected Output:
+A detailed case study including background, challenges, solutions, and results.
 
-Travel Blog Post
+#### Test Case 3: Article on Climate Change
 
-Research Paper on Artificial Intelligence
+#### Objective:
+To create an informative article explaining the causes, effects, and solutions for climate change.
 
-Interview Transcript for Documentary
+#### Prompt Technique Used:
+Answer engineering
+Semantic filtering (educational tone)
+Query decomposition
 
-Sustainability Practices in Fashion
-
-How to Build an E-commerce Website
-
-Social Issue Awareness Campaign
-
-AI Impact on Healthcare
+#### Expected Output:
+A multi-paragraph article with facts, examples, and awareness messaging.
 
 ### Instructions:
 
