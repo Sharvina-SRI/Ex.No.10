@@ -97,7 +97,7 @@ Accuracy: Factual correctness (for reports).
 Tone & style: Does it match the requirement (formal, casual, storytelling)?
 
 ### 6. Test Case Scenarios 
-#### Test Case 1: Business Report on Market Trends
+### Test Case 1: Business Report on Market Trends
 
 #### Objective:
 To generate a structured business report on current market trends using query decomposition, semantic filtering, and answer engineering.
@@ -110,7 +110,7 @@ Answer engineering
 #### Expected Output:
 A formal report covering market overview, growth drivers, challenges, and future predictions.
 
-#### Test Case 2: Case Study on Business Success
+### Test Case 2: Case Study on Business Success
 
 #### Objective:
 To create a case study that analyses how a company achieved success through strategic decisions.
@@ -123,7 +123,7 @@ Semantic filter (professional tone)
 #### Expected Output:
 A detailed case study including background, challenges, solutions, and results.
 
-#### Test Case 3: Article on Climate Change
+### Test Case 3: Article on Climate Change
 
 #### Objective:
 To create an informative article explaining the causes, effects, and solutions for climate change.
